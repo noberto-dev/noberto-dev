@@ -18,6 +18,10 @@
 
 ###
 
+<img align="right" height="200" src="https://64.media.tumblr.com/68ea8c17e594c4adbdcf556b9cf3e103/511ffa46bc7bff85-97/s2048x3072_c0,8635,100000,73695/7ca174f8e47c18b43f34bf5cb9e249ba3054ab36.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -28,22 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img align="left" height="200" src="https://64.media.tumblr.com/68ea8c17e594c4adbdcf556b9cf3e103/511ffa46bc7bff85-97/s2048x3072_c0,8635,100000,73695/7ca174f8e47c18b43f34bf5cb9e249ba3054ab36.gif"  />
-
-###
-
-<h3 align="left">Contact-me:</h3>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
 ###
