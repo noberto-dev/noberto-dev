@@ -14,10 +14,6 @@
 
 ###
 
-<img align="right" height="180" src="https://i.pinimg.com/736x/2a/3b/9d/2a3b9d76792485224cb9b0cd475706f0.jpg"  />
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
@@ -36,23 +32,28 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noberto-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noberto-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<br clear="both">
+
+<img align="left" height="200" src="https://64.media.tumblr.com/68ea8c17e594c4adbdcf556b9cf3e103/511ffa46bc7bff85-97/s2048x3072_c0,8635,100000,73695/7ca174f8e47c18b43f34bf5cb9e249ba3054ab36.gif"  />
+
+###
+
+<h3 align="left">Contact-me:</h3>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noberto-dev/noberto-dev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noberto-dev/noberto-dev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/noberto-dev/noberto-dev/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 ###
