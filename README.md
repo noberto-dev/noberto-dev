@@ -1,24 +1,21 @@
-<h1 align="left">Hey there!</h1>
+<h1 align="left">Olá pessoas!</h1>
 
 ###
 
-<p align="left">Hi, my name is Noberto. I'm a developer from Brazil. I'm currently studying Web Development and focusing Backend Development.</p>
+<p align="left">Eu sou Noberto, estudante de Desenvolvimento Web no IFRN - Campus Caicó. Sou entusiastsa de desenvolvimento FullStack e estou sempre explorando novas tecnologias para desenvolver minhas skills e produzir projetos cada vez melhores. </p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">O que eu exploro:</h2>
+<ul>
+    <li><b>Desenvolvimento FullStack: </b>Estudo as tecnologias e uno um frontend moderno, com boa experiência de usuário e um backend robusto</li>
+    <li><b>Desenvolvimento de Jogos: </b>Desenvolvo com Unity e C# esse tipo de aplicação, aplicando conceitos de design patterns e POO</li>
+</ul>
 
 ###
-
-<p align="left">✨ Creating bugs 1 year ago<br>📚 I'm currently learning, regarless of the problems<br>🎲 Fun fact: I play soccer(or at least, I try)</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu codo com:</h2>
 
 ###
-
-<img align="right" height="200" src="https://64.media.tumblr.com/68ea8c17e594c4adbdcf556b9cf3e103/511ffa46bc7bff85-97/s2048x3072_c0,8635,100000,73695/7ca174f8e47c18b43f34bf5cb9e249ba3054ab36.gif"  />
 
 ###
 
