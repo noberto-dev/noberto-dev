@@ -6,30 +6,7 @@
 
 ###
 
-<h2 align="left">O que eu exploro:</h2>
-<ul>
-    <li><b>Desenvolvimento FullStack: </b>Estudo as tecnologias e uno um frontend moderno, com boa experiência de usuário e um backend robusto</li>
-    <li><b>Desenvolvimento de Jogos: </b>Desenvolvo com Unity e C# esse tipo de aplicação, aplicando conceitos de design patterns e POO</li>
-</ul>
 
-###
-<h2 align="left">Eu codo com:</h2>
-
-###
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-</div>
 
 ###
 
