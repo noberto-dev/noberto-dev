@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Eu sou Noberto, estudante de Desenvolvimento Web no IFRN - Campus Caicó. Sou entusiastsa de desenvolvimento FullStack e estou sempre explorando novas tecnologias para desenvolver minhas skills e produzir projetos cada vez melhores. </p>
+<p align="left">Eu sou Noberto, estudante de Desenvolvimento Web no IFRN - Campus Caicó. Sou entusiastsa de desenvolvimento FullStack. </p>
 
 ###
 
