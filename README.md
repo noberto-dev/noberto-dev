@@ -3,6 +3,7 @@
 ###
 
 <p align="left">Eu sou Noberto, estudante de Desenvolvimento Web no IFRN - Campus Caicó. Sou entusiastsa de desenvolvimento FullStack. </p>
+<p>Atualmente estou estudando ASP .NET Core para construção de APIs Web</p>
 
 ###
 
