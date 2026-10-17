@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Eu sou Noberto, estudante de Desenvolvimento Web no IFRN - Campus Caicó. Sou entusiastsa de desenvolvimento FullStack. </p>
+<p align="left">Me chamo João Victor e sou estudante de Desenvolvimento Web no IFRN - Campus Caicó. Sou entusiastsa de desenvolvimento FullStack. </p>
 <p>Atualmente estou estudando ASP .NET Core para construção de APIs Web e Vue para construção de aplicações SPA (Single Page Application)</p>
 
 ###
